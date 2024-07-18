@@ -27,7 +27,7 @@ public class DistrictFx { //Class Fx for the Second screen(District_Screen).
 
 	private BorderPane pane;
 	private DLinkedList<DistrictRecord> districts;
-
+///
 	public DistrictFx() {
 
 		Text text;
