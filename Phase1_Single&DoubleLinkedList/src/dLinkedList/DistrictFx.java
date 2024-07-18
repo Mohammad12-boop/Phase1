@@ -29,7 +29,7 @@ public class DistrictFx { //Class Fx for the Second screen(District_Screen).
 	private DLinkedList<DistrictRecord> districts;
 ///
 	public DistrictFx() {
-
+//
 		Text text;
 		Label lblInsert, lblUpdate, lblDelete, lblTotalNo, lblLoadLocation;
 		TextField tfInsert, tfDelete, tfUpdate,  tfTotalNo, tfLoadLocation;
